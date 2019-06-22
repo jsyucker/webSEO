@@ -25,6 +25,6 @@
 - bing收录了网站不一定提高索引量，最好提交sitemap。
 
 # wordpres jetpack浏览统计
-！[jetpack浏览统计](https://github.com/jsyucker/webSEO/blob/master/image/jetpack%E6%B5%8F%E8%A7%88%E7%BB%9F%E8%AE%A1.png)
+![jetpack浏览统计](https://github.com/jsyucker/webSEO/blob/master/image/jetpack%E6%B5%8F%E8%A7%88%E7%BB%9F%E8%AE%A1.png)
 ## 原因
 - 可能都是自己点击的
